@@ -34,7 +34,7 @@ main {
 }
 
 #landing {
-  background: #fff;
+  background: rgb(98, 170, 230);
 }
 
 #landing-text {
@@ -46,10 +46,13 @@ main {
   text-align: center;
   padding-right: 1rem;
   padding-left: 1rem;
+  color: red;
+  font-style: italic;
+  
 }
 
 #landing-text h2 {
-  color: #888;
+  color: #030303;
 }
 
 #landing-image {
